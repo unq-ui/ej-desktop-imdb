@@ -1,4 +1,4 @@
-package org.example.model
+package org.model
 
 data class Movie (val id: String, var title: String, var description: String)
 data class DraftMovie (var title: String, var description: String)
